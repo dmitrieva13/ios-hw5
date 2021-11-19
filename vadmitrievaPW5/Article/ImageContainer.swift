@@ -8,5 +8,5 @@
 import UIKit
 
 struct ImageContainer: Decodable {
-    var url: URL?
+    var url: URL
 }
